@@ -1,0 +1,56 @@
+body{
+    background:#cfcbcbb0;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:18%;
+}
+ .left section{
+    margin-right:36px;
+}
+.right{
+    padding-top: 12px;
+    background: white;
+    width:30vw ;
+    text-align: center;
+    border-radius:15px;
+    height:30vh;
+}
+
+input{
+    padding: 7px;
+    width: 26vw;
+    margin-top:7px;
+    border-radius:15px;
+    cursor: pointer;
+
+
+}
+.login{
+    background: #3a31f3;
+    cursor: pointer;
+    color: white;
+    font: bold;
+    padding: 7px;
+    width: 26vw;
+    margin-top:7px;
+    border-radius:15px;
+}
+.forget{
+    padding: 7px;
+    margin-top:16px;
+    color:rgb(106, 106, 232) ;
+    cursor: pointer;
+}
+.account{
+    background: #10d050;
+    cursor: pointer;
+    color: white;
+    font: bold;
+    padding: 7px;  
+    margin-top:7px;
+    border-radius:15px;
+
+}
